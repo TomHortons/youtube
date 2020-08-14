@@ -2,5 +2,6 @@
 .venv
 .vscode
 *.pyc
+result/
 .pytest_cache
 __pycache__
